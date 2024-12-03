@@ -1,11 +1,17 @@
 Requisitos
-Este proyecto está diseñado para ejecutarse con Python 3.6 o versiones superiores. No requiere bibliotecas externas, ya que utiliza Tkinter para la interfaz gráfica de usuario (GUI), que viene preinstalada con Python. Asegúrate de tener Python instalado en tu sistema.
+Este proyecto está diseñado para ejecutarse con Python 3.6 o versiones superiores. No requiere bibliotecas externas,
+ya que utiliza Tkinter para la interfaz gráfica de usuario (GUI), que viene preinstalada con Python. Asegúrate de tener
+Python instalado en tu sistema.
 
 Dependencias:
-Python 3.6 o superior
-Tkinter (preinstalado con Python)
+
+- Python 3.6 o superior
+- Tkinter (preinstalado con Python)
+
 Plataformas soportadas:
-Windows
-macOS
-Linux
+
+- Windows
+- macOS
+- Linux
+
 Este proyecto no tiene dependencias adicionales y debería funcionar en cualquier sistema que soporte Python y Tkinter.
