@@ -1,4 +1,3 @@
-Este proyecto requiere Python 3.6 o superior. Las bibliotecas necesarias para su ejecución son Tkinter,
-que se incluye por defecto en las distribuciones estándar de Python, por lo que no es necesario instalar 
-dependencias adicionales. Tkinter proporciona los componentes necesarios para la interfaz gráfica del usuario (GUI),
-como los botones y cuadros de texto. Asegúrate de tener acceso a un entorno de desarrollo con soporte para Tkinter. 
+<h2>Requisitos</h2>
+
+<p>Este proyecto requiere Python 3.6 o superior. Las bibliotecas necesarias para su ejecución son <strong>Tkinter</strong>, que se incluye por defecto en las distribuciones estándar de Python, por lo que no es necesario instalar dependencias adicionales. Tkinter proporciona los componentes necesarios para la interfaz gráfica del usuario (GUI), como los botones y cuadros de texto. Asegúrate de tener acceso a un entorno de desarrollo con soporte para Tkinter. Este proyecto también está diseñado para funcionar en sistemas operativos como Windows, macOS y Linux, siempre y cuando tengas Python correctamente instalado en tu máquina.</p>
